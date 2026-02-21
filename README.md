@@ -1,4 +1,4 @@
-# ETH SuperTrend Trading Bot
+# ETH SuperTrend Signal & Trading Bot
 
 基于 SuperTrend V9.6 策略的 ETH/USDT 合约交易信号监控系统。
 
